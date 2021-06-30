@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeovela
-- 👀 I’m interested in landing a full-time position as a software engineer.
+- 👀 
 - 🌱 I’m currently working on a personal website.
 - 💞️ This github is comprised of my personal coursework.
 - 📫 How to reach me: email.

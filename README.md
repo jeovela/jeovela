@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeovela
 - 👀 
-- 🌱 I’m currently working on a personal website.
+- 🌱
 - 💞️ This github is comprised of my personal coursework.
 - 📫 How to reach me: email.
 
